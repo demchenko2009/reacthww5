@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Smoked salmon burger",
+    "time": 20,
+    "servings": 6,
+    "difficulty": 0,
+    "image": "https://img.freepik.com/free-photo/delicious-christmas-food-recipe_23-2151902350.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "title": "Tomatoes With Creamy Feta",
+    "time": 15,
+    "servings": 3,
+    "difficulty": 0,
+    "image": "https://www.cookedandloved.com/wp-content/uploads/2022/11/whipped-feta-dip-roasted-tomatoes-1.jpg"
+  },
+  {
+    "title": "Spicy potato salad",
+    "time": 30,
+    "servings": 2,
+    "difficulty": 1,
+    "image": "https://avatars.mds.yandex.net/i?id=e20fa7c1986bcc9e70d889e98d7818939bf194e5-5878998-images-thumbs&n=13"
+  },
+  {
+    "title": "Chicken Biryani",
+    "time": 40,
+    "servings": 4,
+    "difficulty": 2,
+    "image": "https://avatars.mds.yandex.net/i?id=43c88c2a9f85b2a9a0b9cb0018c8a02db93e050f-12640858-images-thumbs&n=13"
+  }
+]
